@@ -1,11 +1,11 @@
-# N1XKAZZMARE | System Overlay & Debugging Tool
+# Minpointed | System Overlay & Debugging Tool
 
 ![Status](https://img.shields.io/badge/Status-Stable-success)
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue)
 ![License](https://img.shields.io/badge/License-MIT-gray)
 
 ## 📌 Project Overview
-**N1XKAZZMARE** — это экспериментальный инструмент для исследования графических оверлеев и взаимодействия с памятью процессов в учебных целях. Проект разработан для демонстрации принципов работы перехвата функций (hooks) и отрисовки интерфейсов поверх сторонних приложений (DirectX/GDI).
+**Minpointed** — это экспериментальный инструмент для исследования графических оверлеев и взаимодействия с памятью процессов в учебных целях. Проект разработан для демонстрации принципов работы перехвата функций (hooks) и отрисовки интерфейсов поверх сторонних приложений (DirectX/GDI).
 
 > **Disclaimer:** Данный проект создан исключительно в образовательных целях. Автор не несет ответственности за любое использование данного инструмента, нарушающее пользовательские соглашения стороннего программного обеспечения.
 
@@ -39,7 +39,7 @@
 
 ## 🤝 Credits & Support
 *   **Lead Developer:** [kerrr1337](https://github.com/K3rrr1337)
-*   **Community:** Задавайте вопросы и сообщайте об ошибках в нашем [Telegram канале](https://t.me/N1xkazzmare_pub).
+*   **Community:** Задавайте вопросы и сообщайте об ошибках в нашем [Telegram канале](https://t.me/Minpointed).
 
 ---
 *Developed for educational purposes only. MIT License.*
