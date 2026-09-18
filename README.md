@@ -38,7 +38,7 @@
 ---
 
 ## 🤝 Credits & Support
-*   **Lead Developer:** [kerrr1337](https://github.com/K3rrr1337)
+*   **Lead Developer:** [highlose](https://github.com/K3rrr1337)
 *   **Community:** Задавайте вопросы и сообщайте об ошибках в нашем [Telegram канале](https://t.me/Minpointed).
 
 ---
